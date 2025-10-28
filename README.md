@@ -103,7 +103,9 @@ I'm always interested in hearing about new projects and opportunities. Feel free
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
 </div>
 
 <div align="center">
