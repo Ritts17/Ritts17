@@ -111,6 +111,4 @@ I'm always interested in hearing about new projects and opportunities. Feel free
   
   **💙 Thank you for visiting my profile! Have a great day!**
   
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
 </div>
