@@ -65,7 +65,7 @@ const ritesh = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritts17&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-readme-trophy.vercel.app/?username=Ritts17&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" />
 </div>
 
 ---
